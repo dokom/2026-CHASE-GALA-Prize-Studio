@@ -1,0 +1,6 @@
+{
+  "name": "2026 CHASE GALA - Holiday Prize Draw & Stage System",
+  "description": "Broadcast-grade Christmas Gala Prize Draw suite with 3D stage animations, admin configuration, guest pool check-in rules, and live winner draws.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
